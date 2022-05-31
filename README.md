@@ -82,30 +82,30 @@ Build premium quality applications with ease. Use our innovative admin template 
 
 ## What's in Premium Version 💎
 
-| Materio Free Version                                                                             | Materio Premium Version                                                                        |
-| ------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------- |
-| [Demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/)          | [Demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template/landing)           |
-| [Download](https://themeselection.com/products/materio-free-vuetify-vuejs-admin-template)        | [Purchase](https://themeselection.com/products/materio-vuetify-vuejs-admin-template)           |
-| Single vertical menu                                                                             | Vertical (+ vertical collapsed) & Horizontal menu                                              |
-| Simple Light/Dark theme                                                                          | 3 Skin variants w/ light/dark theme support: Default, Bordered & Semi-dark                     |
-| 1 Simple Dashboard                                                                               | 3 Niche Dashboards                                                                             |
-| -                                                                                                | 5 API ready applications                                                                       |
-| Simple From Elements                                                                             | Advance form elemens, validation & form wizard                                                 |
-| Basic Cards                                                                                      | Basic Cards + Advanced Cards + Statistics Cards                                                |
-| -                                                                                                | API ready JWT Authentication flow                                                              |
-| -                                                                                                | Access Control (even on CRUD operations)                                                       |
-| -                                                                                                | Quick Search - Quickly navigate between pages (w/ hotkey support)                              |
-| Basic Pages                                                                                      | Authentication Pages in 2 variants + Ready to use pages like Pricing, FAQ, Knowledge base, etc |
-| -                                                                                                | 3D Characters + Illustrations                                                                  |
-| Basic tables                                                                                     | Advanced tables                                                                                |
-| Manual customization                                                                             | Quick customization using theme config file                                                    |
-| -                                                                                                | Advanced Charts                                                                                |
-| 1 Chart Library                                                                                  | 2 Chart Libraries                                                                              |
-| -                                                                                                | Multiple Navbar & Menu Options                                                                 |
-| -                                                                                                | Starter-kit                                                                                    |
-| -                                                                                                | Internationalization support in components                                                     |
-| Regular Support                                                                                  | Priority Support                                                                               |
-| Basic Documentation                                                                              | Detailed Documentation                                                                         |
+| Materio Free Version                                                                      | Materio Premium Version                                                                        |
+| ----------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------- |
+| [Demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/)   | [Demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template/landing)           |
+| [Download](https://themeselection.com/products/materio-free-vuetify-vuejs-admin-template) | [Purchase](https://themeselection.com/products/materio-vuetify-vuejs-admin-template)           |
+| Single vertical menu                                                                      | Vertical (+ vertical collapsed) & Horizontal menu                                              |
+| Simple Light/Dark theme                                                                   | 3 Skin variants w/ light/dark theme support: Default, Bordered & Semi-dark                     |
+| 1 Simple Dashboard                                                                        | 3 Niche Dashboards                                                                             |
+| -                                                                                         | 5 API ready applications                                                                       |
+| Simple From Elements                                                                      | Advance form elemens, validation & form wizard                                                 |
+| Basic Cards                                                                               | Basic Cards + Advanced Cards + Statistics Cards                                                |
+| -                                                                                         | API ready JWT Authentication flow                                                              |
+| -                                                                                         | Access Control (even on CRUD operations)                                                       |
+| -                                                                                         | Quick Search - Quickly navigate between pages (w/ hotkey support)                              |
+| Basic Pages                                                                               | Authentication Pages in 2 variants + Ready to use pages like Pricing, FAQ, Knowledge base, etc |
+| -                                                                                         | 3D Characters + Illustrations                                                                  |
+| Basic tables                                                                              | Advanced tables                                                                                |
+| Manual customization                                                                      | Quick customization using theme config file                                                    |
+| -                                                                                         | Advanced Charts                                                                                |
+| 1 Chart Library                                                                           | 2 Chart Libraries                                                                              |
+| -                                                                                         | Multiple Navbar & Menu Options                                                                 |
+| -                                                                                         | Starter-kit                                                                                    |
+| -                                                                                         | Internationalization support in components                                                     |
+| Regular Support                                                                           | Priority Support                                                                               |
+| Basic Documentation                                                                       | Detailed Documentation                                                                         |
 
 ## Documentation 📜
 
@@ -170,7 +170,7 @@ If you want to [Download Free Admin Templates](https://themeselection.com/produc
 
 ## Social Media 🌍
 
-- Twitter : [https://twitter.com/Theme_Selection](https://twitter.com/Theme_Selection)
+<!-- - Twitter : [https://twitter.com/Theme_Selection](https://twitter.com/Theme_Selection)
 - Facebook : [https://www.facebook.com/ThemeSelections/](https://www.facebook.com/ThemeSelections/)
 - Pinterest : [https://pinterest.com/themeselect/](https://pinterest.com/themeselect/)
-- Instagram : [https://www.instagram.com/themeselection/](https://www.instagram.com/themeselection/)
+- Instagram : [https://www.instagram.com/themeselection/](https://www.instagram.com/themeselection/) -->
